@@ -6,7 +6,8 @@ Analysis of World chicken market with Python
 
 ### English version
 
-**Description:** The project is aimed to define the most interesting countries for chicken :rooster: meat export, basing on several factors, like political stability, PIB and PIB grouth, rate of alimentation products import, and so on. Among the characters taken into account, I also calculated the dynamics of urbam population grouth that may indicate the decrease of local production of poultry and increase of importance of industrial production of poultry and poultry import. I also calculated the rate of poultry origin proteins in the population alimentation using the data profided by [FAO] (https://www.fao.org/faostat/en/#data). This parameter could be important for estimation of importance of poultry products in population diet that could be caused by economical conditions and traditions. This intuitive assumption was very useful, since during my analysis I discovered that countried with strong nomad culture component (for instance, Mongolia, Kazachstan) are characterized by very low consumption of poultry products that is apparently related to the cultural tradition. The following parameters were selected for the analysis:
+The project aims to identify the most promising countries for exporting chicken meat, considering various factors such as political stability, GDP and GDP growth, rate of food imports, and more. Additionally, I analyzed the dynamics of urban population growth as an indicator of potential changes in local poultry production, with a potential shift towards industrial production and increased poultry imports. To assess the significance of poultry products in the population's diet, I calculated the percentage of protein derived from poultry using data provided by the [FAO](https://www.fao.org/faostat/en/#data)
+. This parameter provides valuable insights into the importance of poultry products in relation to economic conditions and cultural traditions. Interestingly, my analysis revealed that countries with a strong nomadic cultural component, such as Mongolia and Kazakhstan, exhibit low consumption of poultry products, likely due to cultural traditions.The following parameters were selected for the analysis:
 - Urbanization level of the population ("urban pop 2018, %").
 - Dynamics of urban population over the past decade ("urban pop change, %").
 - Rate of food imports ("import alim 2018, %").
@@ -22,18 +23,21 @@ Analysis of World chicken market with Python
 So, We are looking for dynamically developing countries with a relatively stable social and political situation, experiencing increasing urbanization, and having a high rate of poultry consumption.
 
 ### Version française
+
+Le projet vise à définir les pays les plus intéressants pour l'exportation de viande de poulet :rooster:, en se basant sur plusieurs facteurs tels que la stabilité politique, le PIB et la croissance du PIB, le taux d'importation de produits alimentaires, et bien d'autres. Parmi les caractéristiques prises en compte, j'ai également calculé la dynamique de croissance de la population urbaine, qui peut indiquer une diminution de la production locale de volaille et une augmentation de l'importance de la production industrielle et de l'importation de volaille. J'ai également calculé le taux de protéines d'origine aviaire dans l'alimentation de la population en utilisant les données fournies par la FAO. Ce paramètre pourrait être important pour estimer l'importance des produits avicoles dans l'alimentation de la population, ce qui peut être influencé par les conditions économiques et les traditions. Cette supposition intuitive s'est avérée très utile, car au cours de mon analyse, j'ai découvert que les pays ayant une forte composante de culture nomade (comme la Mongolie et le Kazakhstan) se caractérisent par une consommation très faible de produits avicoles, probablement en lien avec la tradition culturelle.
+
 Les variables suivantes sont choisies pour l'analyse :
-1) niveau d'urbanisation de la population ("urb pop 2018, %") ;
-2) dynamique de la population urbaine au cours de la dernière décennie ("urb pop change, %") ;
-3) taux d'importation de produits d'alimentation ("import alim 2018, %") ;
-4) produit intérieur brut ("PIB, S") ;
-5) taux de variation du PIB au cours de la dernière décennie ("PIB grouth, %") ;
-6) indice de stabilité ("stability index") ;
-7) prix du poulet ("chicken 2017, S/t") ;
-8) surface relative des terrains agricoles ("Dens sprtagric/ha") ;
-9) quantité de poulets par rapport au nombre total d'animaux d'élévage ("% total UGB") ;
-10) consommation de protéines de volaille par personne ("poultry prod/pers, %") ;
-11) produits alimentaires totaux par personne ("product/pers, t").
+- niveau d'urbanisation de la population ("urb pop 2018, %") ;
+- dynamique de la population urbaine au cours de la dernière décennie ("urb pop change, %") ;
+- taux d'importation de produits d'alimentation ("import alim 2018, %") ;
+- produit intérieur brut ("PIB, S") ;
+- taux de variation du PIB au cours de la dernière décennie ("PIB grouth, %") ;
+- indice de stabilité ("stability index") ;
+- prix du poulet ("chicken 2017, S/t") ;
+- surface relative des terrains agricoles ("Dens sprtagric/ha") ;
+- quantité de poulets par rapport au nombre total d'animaux d'élévage ("% total UGB") ;
+- consommation de protéines de volaille par personne ("poultry prod/pers, %") ;
+- produits alimentaires totaux par personne ("product/pers, t").
 
 Nous recherchons des pays en développement dynamique, leur situation sociale et politique plutôt stable, avec une urbanisation croissante et un taux élevé de consommation de volailles.
 
