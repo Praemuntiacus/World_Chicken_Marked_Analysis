@@ -1,4 +1,4 @@
-# World_Chicken_Marked_Analysis
+# World_Chicken_Market_Analysis
 Analysis of World chicken market with Python
 ## Project 1: Analysis of World Chicken Market (Python: clustering, PCA, Geopandas)
 
