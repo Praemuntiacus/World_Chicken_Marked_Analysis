@@ -4,7 +4,8 @@ Analysis of World chicken market with Python
 
 - Jupyter Notebook with Puthon code and generated plots are here: [Notebook file](https://github.com/Praemuntiacus/World_Chicken_Marked_Analysis/blob/main/CROITOR_Roman_1_notebook_602022_new.ipynb)
 
-### English version
+![image](https://github.com/Praemuntiacus/World_Chicken_Marked_Analysis/assets/125415799/2a1d2422-cab4-4d99-b737-ca419fd85372)
+
 
 The project aims to identify the most promising countries for exporting chicken :rooster: meat, considering various factors such as political stability, GDP and GDP growth, rate of food imports, and more. Additionally, I analyzed the dynamics of urban population growth as an indicator of potential changes in local poultry production, with a potential shift towards industrial production and increased poultry imports. To assess the significance of poultry products in the population's diet, I calculated the percentage of protein derived from poultry using data provided by the [FAO](https://www.fao.org/faostat/en/#data)
 . This parameter provides valuable insights into the importance of poultry products in relation to economic conditions and cultural traditions. Interestingly, my analysis revealed that countries with a strong nomadic cultural component, such as Mongolia and Kazakhstan, exhibit low consumption of poultry products, likely due to cultural traditions.The following parameters were selected for the analysis:
@@ -55,7 +56,8 @@ The analysis shows three regions in the world with high potential for poultry im
 - Central and South America (Mexico, Colombia, etc.) could be an interesting area for poultry importation due to its geographical proximity to French Guiana, which is a climatic and logistical favorable zone for poultry production and exportation to Central America.
 
 
-### Version française
+![image](https://github.com/Praemuntiacus/World_Chicken_Marked_Analysis/assets/125415799/ab739c25-fca3-4888-abce-b1bd5f80c8d9)
+
 
 Le projet vise à définir les pays les plus intéressants pour l'exportation de viande de poulet :rooster:, en se basant sur plusieurs facteurs tels que la stabilité politique, le PIB et la croissance du PIB, le taux d'importation de produits alimentaires, et bien d'autres. Parmi les caractéristiques prises en compte, j'ai également calculé la dynamique de croissance de la population urbaine, qui peut indiquer une diminution de la production locale de volaille et une augmentation de l'importance de la production industrielle et de l'importation de volaille. J'ai également calculé le taux de protéines d'origine aviaire dans l'alimentation de la population en utilisant les données fournies par la [FAO](https://www.fao.org/faostat/en/#data). Ce paramètre pourrait être important pour estimer l'importance des produits avicoles dans l'alimentation de la population, ce qui peut être influencé par les conditions économiques et les traditions. Cette supposition intuitive s'est avérée très utile, car au cours de mon analyse, j'ai découvert que les pays ayant une forte composante de culture nomade (comme la Mongolie et le Kazakhstan) se caractérisent par une consommation très faible de produits avicoles, probablement en lien avec la tradition culturelle.
 
