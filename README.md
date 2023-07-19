@@ -1,5 +1,5 @@
 # World_Chicken_Market_Analysis
-Analysis of World chicken market with Python
+Analysis of World chicken meat market with Python
 ## Analysis of World Chicken Market (Python: data extraction, cleaning and transformation, hierarchical clustering, K-means, PCA, Geopandas)
 
 - Jupyter Notebook with Puthon code and generated plots are here: [Notebook file](https://github.com/Praemuntiacus/World_Chicken_Marked_Analysis/blob/main/CROITOR_Roman_1_notebook_602022_new.ipynb)
